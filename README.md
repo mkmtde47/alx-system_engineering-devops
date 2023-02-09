@@ -1,1 +1,1 @@
-This is a shebang tutorial
+The file contains shebang
