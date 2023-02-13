@@ -1,0 +1,1 @@
+There are many options and flags that can be used with grep to customize its behavior. For example, the -r or --recursive option can be used to search for text patterns recursively within subdirectories, and the -i or --ignore-case option can be used to perform a case-insensitive search.
